@@ -1,0 +1,14 @@
+{
+  "name": "ng-focus",
+  "version": "0.0.1",
+  "description": "An AngularJS directive to place focus on the element",
+  "main": "ng-focus.js",
+  "authors": [
+    "Tatsuya Oiwa <tatsuyaoiw@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ]
+}
